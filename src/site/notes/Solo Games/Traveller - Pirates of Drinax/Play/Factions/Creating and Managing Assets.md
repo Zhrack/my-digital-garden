@@ -17,7 +17,7 @@ Other factions use the [[Workflow & Inspiration/Faction System/Coterie Faction S
 ![Pasted image 20231001154418.png](/img/user/z_Attachments/Pasted%20image%2020231001154418.png)
 
 # Asset Network
-An Asset with AC 12+ can work for the PCs to create and improve relationships with other Assets, creating a network. Register that on [[Solo Games/Traveller - Pirates of Drinax/Play/Asset Networks\|Asset Networks]].
+An Asset with AC 12+ can work for the PCs to create and improve relationships with other Assets, creating a network. Register that on [[Solo Games/Traveller - Pirates of Drinax/Play/Asset Networks.excalidraw\|Asset Networks.excalidraw]].
 
 # One-off requests
 Cost 1Dx1000 Cr x minimum AC required to carry out request.

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/solo-games/depths-of-zhintaras-swade/world/megadungeon/megadungeon/"}
 ---
 
-Map: [[Solo Games/Depths of Zhintaras - SWADE/World/Megadungeon/Depths of Zhintaras General Map\|Depths of Zhintaras General Map]]
+Map: [[Solo Games/Depths of Zhintaras - SWADE/World/Megadungeon/Depths of Zhintaras General Map.excalidraw\|Depths of Zhintaras General Map.excalidraw]]
 
 Playflow when entering a level/area:
 - Define [[Workflow & Inspiration/Alexandrian Prep/Design a Dungeon#Dungeon Factions\|Design a Dungeon#Dungeon Factions]], relationships and the status quo now

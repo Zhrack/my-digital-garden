@@ -5,7 +5,7 @@
 
 After defining the starting location where we are, we are in [[Solo Games/Depths of Zhintaras - SWADE/World/Outside Locations/Hoverkirk\|Hoverkirk]].
 
-We start in front of the [[Solo Games/Depths of Zhintaras - SWADE/World/Megadungeon/F1 Hellish Burrow/F1 News Feed\| Hellish Burrow]] entrance.
+We start in front of the [[Solo Games/Depths of Zhintaras - SWADE/World/Megadungeon/F1 Hellish Burrow/F1 News Feed.excalidraw\| Hellish Burrow]] entrance.
 
 > [!NOTE] News Feed
 > Let's define a News Feed for the first level.
