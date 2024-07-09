@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/solo-games/traveller-pirates-of-drinax/session-1/"}
+{"dg-publish":true,"permalink":"/solo-games/traveller-pirates-of-drinax/session-1/","noteIcon":""}
 ---
 
 # Intro

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/solo-games/depths-of-zhintaras-swade/general-notes-and-todo/"}
+{"dg-publish":true,"permalink":"/solo-games/depths-of-zhintaras-swade/general-notes-and-todo/","noteIcon":""}
 ---
 
 

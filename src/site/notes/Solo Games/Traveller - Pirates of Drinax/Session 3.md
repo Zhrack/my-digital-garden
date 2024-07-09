@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/solo-games/traveller-pirates-of-drinax/session-3/"}
+{"dg-publish":true,"permalink":"/solo-games/traveller-pirates-of-drinax/session-3/","noteIcon":""}
 ---
 
 So… we have Jake, a man with a criminal past, arriving to a planet famous for considering every outsider a conspirator, who is found dabbling on a crime scene. Great first day.

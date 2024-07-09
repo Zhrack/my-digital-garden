@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/solo-games/depths-of-zhintaras-swade/world/world-elements/blood-rust/"}
+{"dg-publish":true,"permalink":"/solo-games/depths-of-zhintaras-swade/world/world-elements/blood-rust/","noteIcon":""}
 ---
 
 Effect of the Hellish influences present in F1, the Hellish Burrow.

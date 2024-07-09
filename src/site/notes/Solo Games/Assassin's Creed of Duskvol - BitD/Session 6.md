@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/solo-games/assassin-s-creed-of-duskvol-bit-d/session-6/"}
+{"dg-publish":true,"permalink":"/solo-games/assassin-s-creed-of-duskvol-bit-d/session-6/","noteIcon":""}
 ---
 
 New scene I guess.

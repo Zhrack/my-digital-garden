@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/solo-games/depths-of-zhintaras-swade/world/megadungeon/f1-hellish-burrow/f1-key/"}
+{"dg-publish":true,"permalink":"/solo-games/depths-of-zhintaras-swade/world/megadungeon/f1-hellish-burrow/f1-key/","noteIcon":""}
 ---
 
 # General features

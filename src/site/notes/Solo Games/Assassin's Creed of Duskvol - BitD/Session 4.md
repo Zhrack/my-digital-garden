@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/solo-games/assassin-s-creed-of-duskvol-bit-d/session-4/"}
+{"dg-publish":true,"permalink":"/solo-games/assassin-s-creed-of-duskvol-bit-d/session-4/","noteIcon":""}
 ---
 
 New day, new score.

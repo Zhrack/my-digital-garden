@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/templates/digital-garden-template/","hide":true}
+{"dg-publish":true,"permalink":"/templates/digital-garden-template/","hide":true,"noteIcon":""}
 ---
 

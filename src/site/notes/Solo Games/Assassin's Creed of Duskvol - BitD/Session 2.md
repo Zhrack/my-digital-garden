@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/solo-games/assassin-s-creed-of-duskvol-bit-d/session-2/"}
+{"dg-publish":true,"permalink":"/solo-games/assassin-s-creed-of-duskvol-bit-d/session-2/","noteIcon":""}
 ---
 
 Since my Mystery Matrix is currently empty, the rules say that I have to generate both a Clue and a Suspect and link them together. I can choose or roll. I have an idea about a possible suspect, but let’s roll.

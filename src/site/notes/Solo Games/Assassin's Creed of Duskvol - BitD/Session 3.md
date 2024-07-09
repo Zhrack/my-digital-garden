@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/solo-games/assassin-s-creed-of-duskvol-bit-d/session-3/"}
+{"dg-publish":true,"permalink":"/solo-games/assassin-s-creed-of-duskvol-bit-d/session-3/","noteIcon":""}
 ---
 
 Score is done, let's do downtime activity. Let's use callboxes instead now, to have a better layout (Discord will probably not handle it... sorry)

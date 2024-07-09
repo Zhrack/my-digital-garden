@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/solo-games/depths-of-zhintaras-swade/world/megadungeon/f1-hellish-burrow/creatures/delkeheal/"}
+{"dg-publish":true,"permalink":"/solo-games/depths-of-zhintaras-swade/world/megadungeon/f1-hellish-burrow/creatures/delkeheal/","noteIcon":""}
 ---
 
 Small flying insects, rarely found far away from their beehive, which they protect fiercely.

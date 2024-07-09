@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/solo-games/depths-of-zhintaras-swade/world/np-cs/three-protectors/"}
+{"dg-publish":true,"permalink":"/solo-games/depths-of-zhintaras-swade/world/np-cs/three-protectors/","noteIcon":""}
 ---
 
 A trio of [[Solo Games/Depths of Zhintaras - SWADE/World/Factions/Arcane Protectors\|Arcane Protectors]], encountered the first time in F1-5, while busy collecting the healing honey of [[Solo Games/Depths of Zhintaras - SWADE/World/Megadungeon/F1 Hellish Burrow/Creatures/Delkeheal\|Delkeheal]]'s hive.

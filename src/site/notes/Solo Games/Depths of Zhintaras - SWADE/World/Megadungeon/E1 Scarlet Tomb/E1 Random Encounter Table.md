@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/solo-games/depths-of-zhintaras-swade/world/megadungeon/e1-scarlet-tomb/e1-random-encounter-table/"}
+{"dg-publish":true,"permalink":"/solo-games/depths-of-zhintaras-swade/world/megadungeon/e1-scarlet-tomb/e1-random-encounter-table/","noteIcon":""}
 ---
 
 

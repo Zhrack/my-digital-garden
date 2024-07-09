@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/solo-games/assassin-s-creed-of-duskvol-bit-d/session-1/"}
+{"dg-publish":true,"permalink":"/solo-games/assassin-s-creed-of-duskvol-bit-d/session-1/","noteIcon":""}
 ---
 
 # Session 1

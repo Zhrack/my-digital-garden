@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/solo-games/assassin-s-creed-of-duskvol-bit-d/session-5/"}
+{"dg-publish":true,"permalink":"/solo-games/assassin-s-creed-of-duskvol-bit-d/session-5/","noteIcon":""}
 ---
 
 The clerical faction is the Church of Ecstasy, the closest thing to a state religion in Duskvol. They see demons as perfect beings without spirit.

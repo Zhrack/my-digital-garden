@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/solo-games/traveller-pirates-of-drinax/play/factions/creating-and-managing-assets/"}
+{"dg-publish":true,"permalink":"/solo-games/traveller-pirates-of-drinax/play/factions/creating-and-managing-assets/","noteIcon":""}
 ---
 
 Assets are individuals or groups that can provide assistance and information. Using them costs resources or a favour.

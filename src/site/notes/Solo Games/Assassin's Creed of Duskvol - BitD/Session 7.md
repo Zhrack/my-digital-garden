@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/solo-games/assassin-s-creed-of-duskvol-bit-d/session-7/"}
+{"dg-publish":true,"permalink":"/solo-games/assassin-s-creed-of-duskvol-bit-d/session-7/","noteIcon":""}
 ---
 
 For this session, instead of Fate Questions, I will use the light Oracle from our own @Phil https://forums.runehammer.online/t/d6-oracle-and-flavor-roll-table/8937

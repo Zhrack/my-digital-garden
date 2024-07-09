@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/solo-games/depths-of-zhintaras-swade/world/factions/arcane-protectors/"}
+{"dg-publish":true,"permalink":"/solo-games/depths-of-zhintaras-swade/world/factions/arcane-protectors/","noteIcon":""}
 ---
 
 An order dedicated to the protection and study of Magical Crystals.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/solo-games/depths-of-zhintaras-swade/session-7/"}
+{"dg-publish":true,"permalink":"/solo-games/depths-of-zhintaras-swade/session-7/","noteIcon":""}
 ---
 
 I'm prepping this new level and doing some changes to the game, which I explain in the following paragraphs. If you want to skip directly to the Actual Play, go [[Solo Games/Depths of Zhintaras - SWADE/Session 7#Actual Play \|here]].

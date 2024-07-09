@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/solo-games/traveller-pirates-of-drinax/play/factions/p-cs-faction/"}
+{"dg-publish":true,"permalink":"/solo-games/traveller-pirates-of-drinax/play/factions/p-cs-faction/","noteIcon":""}
 ---
 
 **Goal**: Better relations with Pourne

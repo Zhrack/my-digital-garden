@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/solo-games/depths-of-zhintaras-swade/session-2/"}
+{"dg-publish":true,"permalink":"/solo-games/depths-of-zhintaras-swade/session-2/","noteIcon":""}
 ---
 
 

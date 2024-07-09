@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/solo-games/traveller-pirates-of-drinax/play/faction-relations/"}
+{"dg-publish":true,"permalink":"/solo-games/traveller-pirates-of-drinax/play/faction-relations/","noteIcon":""}
 ---
 
 # Main Factions & Governments
