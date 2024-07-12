@@ -44,10 +44,9 @@ A fantasy dungeon delving campaign inside a randomly generated megadungeon using
 [[Solo Games/Depths of Zhintaras - SWADE/Session 6\|Session 6]]
 
 # Fantasy Savage Worlds (stopped)
-A fantasy hexcrawl using Savage Worlds Adventure Edition and a mix of tools. Lots of experimentation :)
+A fantasy hexcrawl using Savage Worlds Adventure Edition and a mix of tools.
 Since I was not feeling the start of the story, I rebooted it in [[index#Fantasy Savage Worlds Megadungeon (ongoing)\|#Fantasy Savage Worlds Megadungeon (ongoing)]].
 
 ## Sessions
 [[Solo Games/Savage Worlds Fantasy Hexcrawl/Session 1\|Session 1]]  
-[[Solo Games/Savage Worlds Fantasy Hexcrawl/Session 2\|Session 2]]  
 
